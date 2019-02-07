@@ -1,2 +1,2 @@
 # RecyclerView
-simple recyclerview
+ recyclerview
