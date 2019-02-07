@@ -1,2 +1,0 @@
-# RecyclerView
-simple recyclerview
